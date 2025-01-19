@@ -32,7 +32,7 @@ public class HelloController {
 # Thymeleaf View
 
 The view file is located in the resources/templates directory as greeting.html and includes HTML code with dynamic content:
-```java
+```html
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
